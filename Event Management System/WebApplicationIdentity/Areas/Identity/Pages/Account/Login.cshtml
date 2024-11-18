@@ -1,0 +1,73 @@
+﻿@page
+@model LoginModel
+
+@{
+    ViewData["Title"] = "Log in";
+}
+<link href="~/css/login.css" rel="stylesheet" />
+@* <h1>@ViewData["Title"]</h1> *@
+
+<div class="container-fluid border-1 box-shadow">
+    <div class="row">
+        <div class="col">
+            <div class="wrap d-md-flex">
+                <br /> <br /><br />
+                <img class="align-content-lg-center" height="550" width="600" src="~/images/event6.jpg" alt="">
+            </div>
+        </div>
+        <div class="col">
+            <div class="wrapper">
+                <div class="logo">
+                    <img src="~/images/event.jpg" alt="">
+                </div>
+                <div class="text-center mt-4 name">
+                    Log In
+                </div>
+                <form id="account" method="post" class="needs-validation p-3 mt-3" novalidate>
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-field d-flex align-items-center">
+                        <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" required placeholder="Email" />
+                        @* <label asp-for="Input.Email" class="form-label" plcaceholder="Enter Email id">Email</label> *@
+                    </div>
+
+                    <span asp-validation-for="Input.Email" class="text-danger"></span>
+                    <br />
+                    <div class="form-field d-flex align-items-center">
+
+                        <input asp-for="Input.Password" class="form-control" autocomplete="current-password" aria-required="true" required placeholder="password" />
+                        @* <label asp-for="Input.Password" class="form-label">Password</label> *@
+                    </div>
+
+                    <span asp-validation-for="Input.Password" class="text-danger"></span>
+                    <br />
+                    <div class="form-check">
+                        <input class="form-check-input" asp-for="Input.RememberMe" />
+                        <label class="form-check-label" asp-for="Input.RememberMe">@Html.DisplayNameFor(m => m.Input.RememberMe)</label>
+                    </div>
+                    <div class="mb-3">
+                        <button id="login-submit" type="submit" class="w-100 btn btn-lg btn-primary">Log in</button>
+                    </div>
+
+                    <div class="mb-3">
+                        <p>
+                            <a id="forgot-password" asp-page="./ForgotPassword" class="text-center text-danger">Forgot your password?</a>
+                        </p>
+                        <p>
+                            <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl" class="text-center text-primary">Register as a new user</a>
+                        </p>
+                        <p>
+                            <a id="resend-confirmation" asp-page="./ResendEmailConfirmation" class="text-center text-black-50">Resend email confirmation</a>
+                        </p>
+                    </div>
+                </form>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+

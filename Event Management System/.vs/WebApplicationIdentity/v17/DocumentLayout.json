@@ -1,0 +1,591 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\EventM\\Event Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\views\\eventdetails\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\views\\eventdetails\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\controllers\\schedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\controllers\\schedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\controllers\\eventcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\controllers\\eventcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\controllers\\eventdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\controllers\\eventdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\views\\eventdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\views\\eventdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\views\\eventdetails\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\views\\eventdetails\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\views\\eventdetails\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\views\\eventdetails\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\models\\eventdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\models\\eventdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\views\\eventdetails\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\views\\eventdetails\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\views\\shared\\_venderdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\views\\shared\\_venderdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\views\\shared\\_managerdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\views\\shared\\_managerdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\views\\shared\\_customerdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\views\\shared\\_customerdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\views\\shared\\_admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\views\\shared\\_admindashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\views\\shared\\_maintenancepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\views\\shared\\_maintenancepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\models\\eventcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\models\\eventcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|g:\\eventm\\event management system\\webapplicationidentity\\migrations\\20240709032235_fifth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF389D94-5350-421A-BD63-A0ECE285BBCC}|WebApplicationIdentity\\WebApplicationIdentity.csproj|solutionrelative:webapplicationidentity\\migrations\\20240709032235_fifth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Views\\Home\\Index.cshtml",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplicationIdentity\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAwwDcAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T02:43:08.547Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Program.cs",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Program.cs",
+              "RelativeToolTip": "WebApplicationIdentity\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T17:17:13.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Data\\MyDbContext.cs",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "WebApplicationIdentity\\Data\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T16:37:00.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplicationIdentity\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T16:36:27.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Models\\ApplicationUser.cs",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "WebApplicationIdentity\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:48:14.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplicationIdentity\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T16:36:24.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "WebApplicationIdentity\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T04:30:37.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebApplicationIdentity\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T04:30:30.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EventCategoriesController.cs",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Controllers\\EventCategoriesController.cs",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Controllers\\EventCategoriesController.cs",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Controllers\\EventCategoriesController.cs",
+              "RelativeToolTip": "WebApplicationIdentity\\Controllers\\EventCategoriesController.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAADwv3EAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:52:20.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FeedbacksController.cs",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Controllers\\FeedbacksController.cs",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Controllers\\FeedbacksController.cs",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Controllers\\FeedbacksController.cs",
+              "RelativeToolTip": "WebApplicationIdentity\\Controllers\\FeedbacksController.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAADwv3cAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:53:20.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Controllers\\PaymentsController.cs",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "WebApplicationIdentity\\Controllers\\PaymentsController.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAADwv3YAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:54:56.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SchedulesController.cs",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Controllers\\SchedulesController.cs",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Controllers\\SchedulesController.cs",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Controllers\\SchedulesController.cs",
+              "RelativeToolTip": "WebApplicationIdentity\\Controllers\\SchedulesController.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAwwHUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:56:04.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Views\\EventDetails\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Views\\EventDetails\\Edit.cshtml",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Views\\EventDetails\\Edit.cshtml",
+              "RelativeToolTip": "WebApplicationIdentity\\Views\\EventDetails\\Edit.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T02:07:32.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventDetailsController.cs",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Controllers\\EventDetailsController.cs",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Controllers\\EventDetailsController.cs",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Controllers\\EventDetailsController.cs",
+              "RelativeToolTip": "WebApplicationIdentity\\Controllers\\EventDetailsController.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAewHYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:50:34.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Controllers\\AdminController.cs",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WebApplicationIdentity\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:48:20.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Views\\EventDetails\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Views\\EventDetails\\Details.cshtml",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Views\\EventDetails\\Details.cshtml",
+              "RelativeToolTip": "WebApplicationIdentity\\Views\\EventDetails\\Details.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAwwCoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T02:07:24.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Controllers\\ContactsController.cs",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "WebApplicationIdentity\\Controllers\\ContactsController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T02:08:54.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240709032235_fifth.cs",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Migrations\\20240709032235_fifth.cs",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Migrations\\20240709032235_fifth.cs",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Migrations\\20240709032235_fifth.cs",
+              "RelativeToolTip": "WebApplicationIdentity\\Migrations\\20240709032235_fifth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T03:22:35.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Views\\EventDetails\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Views\\EventDetails\\Delete.cshtml",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Views\\EventDetails\\Delete.cshtml",
+              "RelativeToolTip": "WebApplicationIdentity\\Views\\EventDetails\\Delete.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAwwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T02:07:10.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EventDetail.cs",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Models\\EventDetail.cs",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Models\\EventDetail.cs",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Models\\EventDetail.cs",
+              "RelativeToolTip": "WebApplicationIdentity\\Models\\EventDetail.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAABUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T02:03:40.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Views\\EventDetails\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Views\\EventDetails\\Create.cshtml",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Views\\EventDetails\\Create.cshtml",
+              "RelativeToolTip": "WebApplicationIdentity\\Views\\EventDetails\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T02:06:34.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Views\\EventDetails\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Views\\EventDetails\\Index.cshtml",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Views\\EventDetails\\Index.cshtml",
+              "RelativeToolTip": "WebApplicationIdentity\\Views\\EventDetails\\Index.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAwwDcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T02:07:38.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ManagerDashBoard.cshtml",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Views\\Shared\\_ManagerDashBoard.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Views\\Shared\\_ManagerDashBoard.cshtml",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Views\\Shared\\_ManagerDashBoard.cshtml",
+              "RelativeToolTip": "WebApplicationIdentity\\Views\\Shared\\_ManagerDashBoard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T20:03:30.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_AdminDashBoard.cshtml",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Views\\Shared\\_AdminDashBoard.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Views\\Shared\\_AdminDashBoard.cshtml",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Views\\Shared\\_AdminDashBoard.cshtml",
+              "RelativeToolTip": "WebApplicationIdentity\\Views\\Shared\\_AdminDashBoard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T02:27:50.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_CustomerDashBoard.cshtml",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Views\\Shared\\_CustomerDashBoard.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Views\\Shared\\_CustomerDashBoard.cshtml",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Views\\Shared\\_CustomerDashBoard.cshtml",
+              "RelativeToolTip": "WebApplicationIdentity\\Views\\Shared\\_CustomerDashBoard.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T02:27:13.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebApplicationIdentity\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T03:14:08.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplicationIdentity\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T02:17:39.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_VenderDashBoard.cshtml",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Views\\Shared\\_VenderDashBoard.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Views\\Shared\\_VenderDashBoard.cshtml",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Views\\Shared\\_VenderDashBoard.cshtml",
+              "RelativeToolTip": "WebApplicationIdentity\\Views\\Shared\\_VenderDashBoard.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T02:29:26.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Views\\_ViewStart.cshtml",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplicationIdentity\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T20:03:17.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_MaintenancePartialView.cshtml",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Views\\Shared\\_MaintenancePartialView.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Views\\Shared\\_MaintenancePartialView.cshtml",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Views\\Shared\\_MaintenancePartialView.cshtml",
+              "RelativeToolTip": "WebApplicationIdentity\\Views\\Shared\\_MaintenancePartialView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T02:28:10.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "WebApplicationIdentity\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T02:28:07.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebApplicationIdentity\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T02:31:07.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EventCategory.cs",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Models\\EventCategory.cs",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Models\\EventCategory.cs",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Models\\EventCategory.cs",
+              "RelativeToolTip": "WebApplicationIdentity\\Models\\EventCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T02:04:07.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "WebApplicationIdentity\\Models\\Feedback.cs",
+              "ToolTip": "G:\\EventM\\Event Management System\\WebApplicationIdentity\\Models\\Feedback.cs",
+              "RelativeToolTip": "WebApplicationIdentity\\Models\\Feedback.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T02:04:58.413Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

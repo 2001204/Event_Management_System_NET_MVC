@@ -1,0 +1,48 @@
+
+.sidebar {
+    position: fixed;
+    top: 0px;
+    bottom: 0;
+    left: 0;
+    z-index: 1000;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+    background-color:powderblue;
+    color: white;
+    height: 100%;
+    overflow: auto;
+}
+
+.main-content {
+    margin-top: 56px;
+    background-color: antiquewhite;
+    padding: 20px;
+}
+
+.sidebar a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    transition: background 0.3s;
+}
+
+    .sidebar a.active {
+        margin-top: 2px;
+        background-color: deeppink;
+        color: white;
+        height: 50px;
+    }
+
+    .sidebar a:hover:not(.active) {
+        background-color: #555;
+        color: white;
+    }
+
+.footer {
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: lightslategrey;
+    color: white;
+}
+

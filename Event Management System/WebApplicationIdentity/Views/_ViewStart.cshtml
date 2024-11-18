@@ -1,0 +1,24 @@
+﻿@{
+    // Layout = "_Layout";
+
+    if (User.IsInRole("Admin"))
+    {
+        Layout = "/Views/Shared/_AdminDashBoard.cshtml";
+    }
+    else if (User.IsInRole("Manager"))
+    {
+        Layout = "/Views/Shared/_ManagerDashBoard.cshtml";
+    }
+    else if (User.IsInRole("Vender"))
+    {
+        Layout = "/Views/Shared/_VenderDashBoard.cshtml";
+    }
+    else if (User.IsInRole("Customer"))
+    {
+        Layout = "/Views/Shared/_CustomerDashboard.cshtml";
+    }
+    else
+    {
+        Layout = "/Views/Shared/_Layout.cshtml";
+    }
+}
